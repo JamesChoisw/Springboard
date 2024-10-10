@@ -1,0 +1,88 @@
+==============================
+Final Model Metrics
+==============================
+
+Model Type:
+- Balanced Random Forest
+
+Feature Selection:
+- Random Forest-based Feature Selection
+
+Selected Features:
+- ROAC_Before_Interest_And_Depreciation_Before_Tax
+- ROAB_Before_Interest_And_Depreciation_After_Tax
+- Operating_Profit_Rate
+- Pre-tax_Net_Interest_Rate
+- After-tax_Net_Interest_Rate
+- Non-industry_Income_And_Expenditure_To_Revenue
+- Continuous_Interest_Rate_After_Tax
+- Persistent_EPS_In_The_Last_Four_Seasons
+- Continuous_Net_Profit_Growth_Rate
+- Total_Asset_Growth_Rate
+- Current_Ratio
+- Interest_Expense_Ratio
+- Debt_Ratio_Pct
+- Net_Worth_To_Assets
+- Borrowing_Dependency
+- Contingent_Liabilities_To_Net_Worth
+- Net_Profit_Before_Tax_To_Paid-in_Capital
+- Operating_Profit_Per_Person
+- Current_Liability_To_Assets
+- Inventory_To_Working_Capital
+- Retained_Earnings_To_Total_Assets
+- Cash_Turnover_Rate
+- Current_Liability_To_Liability
+- Current_Liability_To_Equity
+- Equity_To_Long-term_Liability
+- Cash_Flow_To_Liability
+- Current_Liability_To_Current_Assets
+- Net_Income_To_Total_Assets
+- Net_Income_To_Stockholder's_Equity
+- Liability_To_Equity
+- Degree_Of_Financial_Leverage_DFL
+- Interest_Coverage_Ratio_Interest_Expense_To_EBIT
+- Equity_To_Liability
+- Debt_Ratio_Pct_To_NIA
+- Borrowing_Dependency_To_NIA
+- Cash_To_Current_Liability_To_NIA
+- Fixed_Assets_To_Assets_To_NIA
+- Quick_Ratio_To_NIA
+- Total_Debt_To_Total_Net_Worth_To_NIA
+- Contingent_Liabilities_To_Net_Worth_To_NIA
+- Current_Liability_To_Assets_To_NIA
+- Current_Liability_To_Equity_To_NIA
+- Long-term_Liability_To_Current_Assets_To_NIA
+- Liability_To_Equity_To_NIA
+- Degree_Of_Financial_Leverage_DFL_To_NIA
+- Debt_Ratio_Pct_To_ATO
+- Current_Liability_To_Assets_To_ATO
+
+Hyperparameters:
+- Number of Estimators: 100
+- Max Depth: None
+- Min Samples Split: 2
+- Min Samples Leaf: 1
+- Bootstrap: False
+
+Performance Metrics:
+- F-Score: 0.714
+
+Classification Report:
+- Precision Class 0: 1.00
+- Recall Class 0: 0.86
+- F1-Score Class 0: 0.92
+- Support Class 0: 1320
+- Precision Class 1: 0.17
+- Recall Class 1: 0.89
+- F1-Score Class 1: 0.29
+- Support Class 1: 44
+- Accuracy: 0.86
+- Macro Avg Precision: 0.58
+- Macro Avg Recall: 0.87
+- Macro Avg F1-Score: 0.61
+- Weighted Avg Precision: 0.97
+- Weighted Avg Recall: 0.86
+- Weighted Avg F1-Score: 0.90
+
+Confusion Matrix:
+- [[1134, 186], [5, 39]]
