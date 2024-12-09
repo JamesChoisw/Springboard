@@ -1,0 +1,64 @@
+,Feature,Importance,Model
+0,accommodates,0.027376196420591328,Random Forest
+1,bathrooms,0.05627703099846221,Random Forest
+2,host_response_rate,0.00478175835062056,Random Forest
+3,number_of_reviews,0.02523981758723593,Random Forest
+4,review_scores_rating,0.011928208268936587,Random Forest
+5,bedrooms,0.13257257265735772,Random Forest
+6,beds,0.0038838353717628444,Random Forest
+7,is_new_listing,0.010274129057351856,Random Forest
+8,distance_to_downtown,0.09170107856300998,Random Forest
+9,hosting_duration_years,0.027878879188288387,Random Forest
+10,cleaning_fee_True,0.0033631170976727636,Random Forest
+11,host_identity_verified_t,0.0026058197039209524,Random Forest
+12,instant_bookable_t,0.0025915171860899154,Random Forest
+13,accommodates,0.01051421370357275,XGBoost
+14,bathrooms,0.015111016109585762,XGBoost
+15,host_response_rate,0.001895419554784894,XGBoost
+16,number_of_reviews,0.003176894271746278,XGBoost
+17,review_scores_rating,0.0026498246006667614,XGBoost
+18,bedrooms,0.05538799613714218,XGBoost
+19,beds,0.003429686650633812,XGBoost
+20,is_new_listing,0.010146088898181915,XGBoost
+21,distance_to_downtown,0.00706495949998498,XGBoost
+22,hosting_duration_years,0.0028623135294765234,XGBoost
+23,cleaning_fee_True,0.003221421502530575,XGBoost
+24,host_identity_verified_t,0.0023379751946777105,XGBoost
+25,instant_bookable_t,0.002412740606814623,XGBoost
+26,accommodates,0.11096326611236794,Gradient Boosting
+27,bathrooms,0.05548605211346664,Gradient Boosting
+28,host_response_rate,0.005347291738176406,Gradient Boosting
+29,number_of_reviews,0.02110782559517798,Gradient Boosting
+30,review_scores_rating,0.010494196656100959,Gradient Boosting
+31,bedrooms,0.12771193698236688,Gradient Boosting
+32,beds,0.0033998770781491724,Gradient Boosting
+33,is_new_listing,0.01292279729733002,Gradient Boosting
+34,distance_to_downtown,0.09801104229894725,Gradient Boosting
+35,hosting_duration_years,0.020681168858518315,Gradient Boosting
+36,cleaning_fee_True,0.0026168871702305597,Gradient Boosting
+37,host_identity_verified_t,0.001004921883613028,Gradient Boosting
+38,instant_bookable_t,0.0012802410473195121,Gradient Boosting
+39,room_type_group,0.35510503960713946,Gradient Boosting
+40,room_type_group,0.38148717147765027,Random Forest
+41,room_type_group,0.7046469748020172,XGBoost
+42,city_group,0.043424391831474084,Gradient Boosting
+43,city_group,0.029999420808258893,Random Forest
+44,city_group,0.059999989345669746,XGBoost
+45,zipcode_group,0.023565261719558715,Gradient Boosting
+46,zipcode_group,0.030857632401285248,Random Forest
+47,zipcode_group,0.03146752854809165,XGBoost
+48,neighbourhood_group,0.033984881893598856,Gradient Boosting
+49,neighbourhood_group,0.03780869236284878,Random Forest
+50,neighbourhood_group,0.027127115288749337,XGBoost
+51,property_type_group,0.00732902029113458,Gradient Boosting
+52,property_type_group,0.00681097920324311,Random Forest
+53,property_type_group,0.015331341652199626,XGBoost
+54,cancellation_policy_group,0.0024247926279647915,Gradient Boosting
+55,cancellation_policy_group,0.004280309159115795,Random Forest
+56,cancellation_policy_group,0.013916576281189919,XGBoost
+57,amenities_group,0.017337849541732297,Gradient Boosting
+58,amenities_group,0.0277295979199535,Random Forest
+59,amenities_group,0.015134141081944108,XGBoost
+60,description_features,0.04580125765563261,Gradient Boosting
+61,description_features,0.08055223621634351,Random Forest
+62,description_features,0.012165725929662585,XGBoost

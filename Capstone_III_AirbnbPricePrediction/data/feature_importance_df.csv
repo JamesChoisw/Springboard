@@ -1,0 +1,172 @@
+,Feature,Importance,Model
+0,accommodates,0.027376196420591328,Random Forest
+1,bathrooms,0.05627703099846221,Random Forest
+2,host_response_rate,0.00478175835062056,Random Forest
+3,neighbourhood_0,6.879188620258176e-05,Random Forest
+4,neighbourhood_1,0.00308572487669133,Random Forest
+5,neighbourhood_2,0.0026880465483908908,Random Forest
+6,neighbourhood_3,0.003673550800530435,Random Forest
+7,neighbourhood_4,0.005606118245893392,Random Forest
+8,neighbourhood_5,0.004629676673687424,Random Forest
+9,neighbourhood_6,0.0036941058056995757,Random Forest
+10,neighbourhood_7,0.0033381572006667562,Random Forest
+11,neighbourhood_8,0.0055540376737339674,Random Forest
+12,neighbourhood_9,0.005470482651352425,Random Forest
+13,number_of_reviews,0.02523981758723593,Random Forest
+14,review_scores_rating,0.011928208268936587,Random Forest
+15,zipcode_0,0.00026600364030990336,Random Forest
+16,zipcode_1,0.0030303208357609157,Random Forest
+17,zipcode_2,0.0030989734355011418,Random Forest
+18,zipcode_3,0.003748758999211682,Random Forest
+19,zipcode_4,0.0037220828994879358,Random Forest
+20,zipcode_5,0.004338930313668367,Random Forest
+21,zipcode_6,0.0031347829840821257,Random Forest
+22,zipcode_7,0.0031174861647301475,Random Forest
+23,zipcode_8,0.0030233750162561627,Random Forest
+24,zipcode_9,0.0033769181122768666,Random Forest
+25,bedrooms,0.13257257265735772,Random Forest
+26,beds,0.0038838353717628444,Random Forest
+27,is_new_listing,0.010274129057351856,Random Forest
+28,distance_to_downtown,0.09170107856300998,Random Forest
+29,hosting_duration_years,0.027878879188288387,Random Forest
+30,description_length,0.01119986557779641,Random Forest
+31,word_count,0.01693328353205949,Random Forest
+32,important_word_ratio,0.02353317782730423,Random Forest
+33,selected_word_count,0.00858468285355675,Random Forest
+34,selected_word_ratio,0.02030122642562663,Random Forest
+35,amenities_count,0.021368568257656123,Random Forest
+36,property_type_Condo_Townhouse,0.0009463872360137355,Random Forest
+37,property_type_House,0.00400709771639919,Random Forest
+38,property_type_Other,0.0018574942508301838,Random Forest
+39,room_type_Private room,0.31487031483363015,Random Forest
+40,room_type_Shared room,0.06661685664402013,Random Forest
+41,cancellation_policy_moderate,0.0016415112816946242,Random Forest
+42,cancellation_policy_strict,0.002592424674523666,Random Forest
+43,cancellation_policy_super_strict_30,2.4584210989955952e-05,Random Forest
+44,cancellation_policy_super_strict_60,2.178899190754894e-05,Random Forest
+45,cleaning_fee_True,0.0033631170976727636,Random Forest
+46,city_Chicago,0.004330708120156308,Random Forest
+47,city_DC,0.006649679653424429,Random Forest
+48,city_LA,0.0059000612633952395,Random Forest
+49,city_NYC,0.007071070827525955,Random Forest
+50,city_SF,0.006047900943756962,Random Forest
+51,host_identity_verified_t,0.0026058197039209524,Random Forest
+52,instant_bookable_t,0.0025915171860899154,Random Forest
+53,amenities_cluster_1,0.0003145833787793048,Random Forest
+54,amenities_cluster_2,0.002440564675129989,Random Forest
+55,amenities_cluster_3,0.0014485782661233786,Random Forest
+56,amenities_cluster_4,0.0021573033422647046,Random Forest
+57,accommodates,0.01051421370357275,XGBoost
+58,bathrooms,0.015111016109585762,XGBoost
+59,host_response_rate,0.001895419554784894,XGBoost
+60,neighbourhood_0,0.002909383736550808,XGBoost
+61,neighbourhood_1,0.0029584544245153666,XGBoost
+62,neighbourhood_2,0.0018562714103609324,XGBoost
+63,neighbourhood_3,0.0022929301485419273,XGBoost
+64,neighbourhood_4,0.0026590977795422077,XGBoost
+65,neighbourhood_5,0.0028828552458435297,XGBoost
+66,neighbourhood_6,0.002251087687909603,XGBoost
+67,neighbourhood_7,0.0023274333216249943,XGBoost
+68,neighbourhood_8,0.003353638108819723,XGBoost
+69,neighbourhood_9,0.003635963425040245,XGBoost
+70,number_of_reviews,0.003176894271746278,XGBoost
+71,review_scores_rating,0.0026498246006667614,XGBoost
+72,zipcode_0,0.003938554786145687,XGBoost
+73,zipcode_1,0.004001101478934288,XGBoost
+74,zipcode_2,0.0032517549116164446,XGBoost
+75,zipcode_3,0.003324611810967326,XGBoost
+76,zipcode_4,0.002994757844135165,XGBoost
+77,zipcode_5,0.003099034307524562,XGBoost
+78,zipcode_6,0.0025585643015801907,XGBoost
+79,zipcode_7,0.0028593302704393864,XGBoost
+80,zipcode_8,0.002735116286203265,XGBoost
+81,zipcode_9,0.002704702550545335,XGBoost
+82,bedrooms,0.05538799613714218,XGBoost
+83,beds,0.003429686650633812,XGBoost
+84,is_new_listing,0.010146088898181915,XGBoost
+85,distance_to_downtown,0.00706495949998498,XGBoost
+86,hosting_duration_years,0.0028623135294765234,XGBoost
+87,description_length,0.002466164529323578,XGBoost
+88,word_count,0.0026731102261692286,XGBoost
+89,important_word_ratio,0.0023307446390390396,XGBoost
+90,selected_word_count,0.0023280498571693897,XGBoost
+91,selected_word_ratio,0.0023676566779613495,XGBoost
+92,amenities_count,0.0029082440305501223,XGBoost
+93,property_type_Condo_Townhouse,0.0032555588986724615,XGBoost
+94,property_type_House,0.00673644058406353,XGBoost
+95,property_type_Other,0.0053393421694636345,XGBoost
+96,room_type_Private room,0.3630780279636383,XGBoost
+97,room_type_Shared room,0.3415689468383789,XGBoost
+98,cancellation_policy_moderate,0.0017891996540129185,XGBoost
+99,cancellation_policy_strict,0.0026803421787917614,XGBoost
+100,cancellation_policy_super_strict_30,0.005487542599439621,XGBoost
+101,cancellation_policy_super_strict_60,0.003959491848945618,XGBoost
+102,cleaning_fee_True,0.003221421502530575,XGBoost
+103,city_Chicago,0.01069997064769268,XGBoost
+104,city_DC,0.010811764746904373,XGBoost
+105,city_LA,0.011158750392496586,XGBoost
+106,city_NYC,0.009251578710973263,XGBoost
+107,city_SF,0.018077924847602844,XGBoost
+108,host_identity_verified_t,0.0023379751946777105,XGBoost
+109,instant_bookable_t,0.002412740606814623,XGBoost
+110,amenities_cluster_1,0.003109862795099616,XGBoost
+111,amenities_cluster_2,0.0028101508505642414,XGBoost
+112,amenities_cluster_3,0.002977950032800436,XGBoost
+113,amenities_cluster_4,0.0033279333729296923,XGBoost
+114,accommodates,0.11096326611236794,Gradient Boosting
+115,bathrooms,0.05548605211346664,Gradient Boosting
+116,host_response_rate,0.005347291738176406,Gradient Boosting
+117,neighbourhood_0,0.0003585420221465629,Gradient Boosting
+118,neighbourhood_1,0.004298662033405163,Gradient Boosting
+119,neighbourhood_2,0.0021767370285621554,Gradient Boosting
+120,neighbourhood_3,0.0031703899245670597,Gradient Boosting
+121,neighbourhood_4,0.003976198854675922,Gradient Boosting
+122,neighbourhood_5,0.005447739916299718,Gradient Boosting
+123,neighbourhood_6,0.0020673451440290295,Gradient Boosting
+124,neighbourhood_7,0.002500937944369123,Gradient Boosting
+125,neighbourhood_8,0.005514507482930015,Gradient Boosting
+126,neighbourhood_9,0.0044738215426141075,Gradient Boosting
+127,number_of_reviews,0.02110782559517798,Gradient Boosting
+128,review_scores_rating,0.010494196656100959,Gradient Boosting
+129,zipcode_0,0.0011995605439321013,Gradient Boosting
+130,zipcode_1,0.003584948559891685,Gradient Boosting
+131,zipcode_2,0.0018938298438160972,Gradient Boosting
+132,zipcode_3,0.00316540642434893,Gradient Boosting
+133,zipcode_4,0.0027046258789471377,Gradient Boosting
+134,zipcode_5,0.0032394687864589445,Gradient Boosting
+135,zipcode_6,0.0018966906552698806,Gradient Boosting
+136,zipcode_7,0.0018193188286544338,Gradient Boosting
+137,zipcode_8,0.0018680942574130026,Gradient Boosting
+138,zipcode_9,0.0021933179408265024,Gradient Boosting
+139,bedrooms,0.12771193698236688,Gradient Boosting
+140,beds,0.0033998770781491724,Gradient Boosting
+141,is_new_listing,0.01292279729733002,Gradient Boosting
+142,distance_to_downtown,0.09801104229894725,Gradient Boosting
+143,hosting_duration_years,0.020681168858518315,Gradient Boosting
+144,description_length,0.010628798329617672,Gradient Boosting
+145,word_count,0.009699076771383805,Gradient Boosting
+146,important_word_ratio,0.01316633051012687,Gradient Boosting
+147,selected_word_count,0.0031539364537107543,Gradient Boosting
+148,selected_word_ratio,0.009153115590793508,Gradient Boosting
+149,amenities_count,0.013887742052307837,Gradient Boosting
+150,property_type_Condo_Townhouse,0.00112371684482337,Gradient Boosting
+151,property_type_House,0.0036245228329732982,Gradient Boosting
+152,property_type_Other,0.0025807806133379117,Gradient Boosting
+153,room_type_Private room,0.2835845937232407,Gradient Boosting
+154,room_type_Shared room,0.07152044588389876,Gradient Boosting
+155,cancellation_policy_moderate,0.0006202140058315106,Gradient Boosting
+156,cancellation_policy_strict,0.0014697302972143517,Gradient Boosting
+157,cancellation_policy_super_strict_30,0.00017354508939323697,Gradient Boosting
+158,cancellation_policy_super_strict_60,0.0001613032355256922,Gradient Boosting
+159,cleaning_fee_True,0.0026168871702305597,Gradient Boosting
+160,city_Chicago,0.005896792686041113,Gradient Boosting
+161,city_DC,0.009084429926952731,Gradient Boosting
+162,city_LA,0.007770997298408355,Gradient Boosting
+163,city_NYC,0.010999263608824777,Gradient Boosting
+164,city_SF,0.009672908311247105,Gradient Boosting
+165,host_identity_verified_t,0.001004921883613028,Gradient Boosting
+166,instant_bookable_t,0.0012802410473195121,Gradient Boosting
+167,amenities_cluster_1,0.0005472839403006025,Gradient Boosting
+168,amenities_cluster_2,0.0010193656612918216,Gradient Boosting
+169,amenities_cluster_3,0.0012358895871625078,Gradient Boosting
+170,amenities_cluster_4,0.0006475683006695285,Gradient Boosting
