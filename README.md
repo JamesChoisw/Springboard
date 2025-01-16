@@ -10,7 +10,7 @@ Welcome to my repository of projects completed as part of the Springboard Data S
      - Data preprocessing: Handling missing values and outliers.
      - Feature engineering: Creating new financial indicators and selecting features using LASSO regression.
      - Modeling: Logistic Regression, Random Forest, SVM, and LightGBM.
-     - Evaluation: Prioritized recall and F-beta metrics for imbalanced data.
+     - Evaluation: Prioritized F-beta score and recall metrics.
    - **Skills**: Python, scikit-learn, pandas, SMOTE, advanced metrics.
 
 ### 2. **Airbnb Price Prediction**
