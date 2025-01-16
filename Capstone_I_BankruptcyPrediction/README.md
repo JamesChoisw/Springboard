@@ -31,6 +31,7 @@ Predict the likelihood of bankruptcy for companies based on their financial metr
   - **LightGBM**
   - **XGBoost**
   - **Balanced Random Forest**
+- Tuned Hyperparameters Using Grid Search
 - Evaluated models using metrics like F-beta score and recall to reflect the Asymmetry in Costs between Type I and Type II Errors
 
 ### 4. **Evaluation**
