@@ -39,7 +39,6 @@ Predict the likelihood of bankruptcy for companies based on their financial metr
 - Focused on recall over precision due to the high cost of failing to predict bankruptcy.
 - Best results: Balanced Random Forest Model
   - **Recall**: 0.82
-  - **Precision**: 0.12 (with F3.16 scoring for imbalance prioritization)
   - **F-beta score**: 0.72
 - Highlighted trade-offs between recall and precision to optimize business decisions.
 
