@@ -63,3 +63,8 @@ Predict Airbnb listing prices using a machine learning regression approach by an
   - Feature Engineering: scikit-learn, category_encoders
   - Modeling: scikit-learn, XGBoost
 - **Visualization**: matplotlib, seaborn
+
+---
+
+**Contact**: Suk Won Choi  
+[Email: jameschoisw00@gmail.com] | [[LinkedIn Profile](https://www.linkedin.com/in/james-sukwon-choi/)]
