@@ -55,3 +55,8 @@ Predict the likelihood of bankruptcy for companies based on their financial metr
   - Feature Selection: statsmodels, LASSO
   - Modeling: scikit-learn, LightGBM, XGBoost
 - **Visualization**: matplotlib, seaborn
+
+---
+
+**Contact**: Suk Won Choi  
+[Email: jameschoisw00@gmail.com] | [[LinkedIn Profile](https://www.linkedin.com/in/james-sukwon-choi/)]
