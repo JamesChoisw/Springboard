@@ -52,9 +52,12 @@ Predict Airbnb listing prices using a machine learning regression approach by an
   - Ensured no significant performance difference between training and test sets, indicating robust model performance.
 
 ## Key Results
-- The model achieved strong predictive performance, with Random Forest and Gradient Boosting Machines showing competitive results.
-- TF-IDF vectorization significantly improved the handling of text data in price prediction.
-- The distance from downtown was found to be a significant predictor of listing price.
+- The model achieved strong predictive performance, with Weighted Averaged Ensemble and XGBoost Machines showing competitive results.
+- Room Type is the most critical feature, significantly influencing a listing's value and appeal.
+- Features like Bedrooms and Accommodates, describing property size and capacity, are highly impactful.
+- Location-related attributes (e.g., distance to downtown, city, zipcode) strongly affect desirability.
+- Amenities and property description provide meaningful explanatory power for listing quality.
+
 
 ## Technologies Used
 - **Programming**: Python
